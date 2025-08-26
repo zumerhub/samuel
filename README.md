@@ -10,9 +10,8 @@
 ---
 
 ### 🚀 **Featured Projects**
-- [**Traffic Monitoring System**](https://github.com/YOUR-REPO): Real-time traffic analysis using YOLOv11, Django & video streaming.
-- [**School Portal**](https://github.com/YOUR-REPO): Django-based portal with authentication, roles (student/teacher/admin), payment integration & notifications.
-- [**Face Attendance System**](https://github.com/YOUR-REPO): Face recognition attendance using OpenCV & Python.
+- [**Traffic Monitoring System**](https://github.com/zumerhub/trafficmgs): Real-time traffic analysis using YOLOv11, OpenCV, PostgreSQL, Django & video streaming.
+- [**REANrecycling Portal**](https://github.com/zumerhub/REANrecycling)): Django-based portal with authentication, roles (buyers/manufacturer/admin), payment integration & notifications.
 
 ---
 
@@ -25,3 +24,6 @@
 ---
 
 > *“I love building impactful backend solutions that improve transportation and logistics systems.”*
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zumerhub&show_icons=true)
