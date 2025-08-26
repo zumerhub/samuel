@@ -11,7 +11,7 @@
 
 ### 🚀 **Featured Projects**
 - [**Traffic Monitoring System**](https://github.com/zumerhub/trafficmgs): Real-time traffic analysis using YOLOv11, OpenCV, PostgreSQL, Django & video streaming.
-- [**REANrecycling Portal**](https://github.com/zumerhub/REANrecycling)): Django-based portal with authentication, roles (buyers/manufacturer/admin), payment integration & notifications.
+- [**REANrecycling Portal**](https://github.com/zumerhub/REANrecycling): Django-based portal with authentication, roles (buyers/manufacturer/admin), payment integration & notifications.
 
 ---
 
@@ -20,6 +20,13 @@
 - **Frameworks:** Django, FastAPI  
 - **Databases:** PostgreSQL, MySQL  
 - **Tools:** Docker, Git, AWS, Kubernetes, OpenCV  
+
+---
+
+### 📚 Learning Journey
+- 🎓 Currently enrolled in ALX ProDev Backend Program.
+- 💡 Continuously improving skills in API design, DevOps practices, and scalable backend systems.
+- 🌱 Exploring cloud technologies and system optimization.
 
 ---
 
