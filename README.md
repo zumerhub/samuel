@@ -1,2 +1,2 @@
-# samuel
+# zumerhub
 My personal repository.
